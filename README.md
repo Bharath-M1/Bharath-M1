@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript , React**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/devbharath/](https://www.linkedin.com/in/devbharath/)
-
 - 📫 How to reach me **bharath.maghesh@gmail.com**
 
 - ⚡ Fun fact **Part of being a person is about helping others**
