@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript , React**
 
-- 📫 How to reach me **bharath.maghesh@gmail.com**
+- 📫 How to reach me **bharath.maghes@gmail.com**
 
 - ⚡ Fun fact **Part of being a person is about helping others**
 
