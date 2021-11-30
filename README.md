@@ -21,5 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharath-m1&show_icons=true&locale=en" alt="bharath-m1" /></p>
 
 
+<h3 align="left">Dev Card:</h3>
+
 <a href="https://app.daily.dev/Blow"><img src="https://api.daily.dev/devcards/3c90173aeb934d48bfcab239509d0f9a.png?r=ekb" width="400" alt="Bharath's Dev Card"/></a>
 
