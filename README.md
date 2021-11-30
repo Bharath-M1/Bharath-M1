@@ -8,7 +8,7 @@
 - 📫 How to reach me **bharath.maghes@gmail.com**
 
 - ⚡ Fun fact **Part of being a person is about helping others**
-
+<a href="https://app.daily.dev/Blow"><img src="https://api.daily.dev/devcards/3c90173aeb934d48bfcab239509d0f9a.png?r=ekb" width="400" alt="Bharath's Dev Card"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@bharathm1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@bharathm1" height="30" width="40" /></a>
