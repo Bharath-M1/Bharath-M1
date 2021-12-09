@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharath-m1&label=Profile%20views&color=0e75b6&style=flat" alt="bharath-m1" /> </p>
 
-- 🌱 I’m currently learning **JavaScript , React , C# , .NET **
+- 🌱 I’m currently learning **JavaScript , React , C# , .NET**
 
 - 📫 How to reach me **bharath.maghes@gmail.com**
 
